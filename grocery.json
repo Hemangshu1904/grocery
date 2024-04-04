@@ -1,0 +1,63 @@
+[
+    {
+      "id": 1,
+      "grocery_list": [
+        {
+          "id": 101,
+          "name": "Apples",
+          "price": 2,
+          "quantity": 3
+        },
+        {
+          "id": 102,
+          "name": "Bananas",
+          "price": 1,
+          "quantity": 2
+        },
+        {
+          "id": 103,
+          "name": "Milk",
+          "price": 3,
+          "quantity": 1
+        }
+      ],
+      "status": "Pending"
+    },
+    {
+      "id": 2,
+      "grocery_list": [
+        {
+          "id": 104,
+          "name": "Bread",
+          "price": 2,
+          "quantity": 2
+        },
+        {
+          "id": 105,
+          "name": "Eggs",
+          "price": 2,
+          "quantity": 1
+        }
+      ],
+      "status": "Pending"
+    },
+    {
+      "id": 3,
+      "grocery_list": [
+        {
+          "id": 106,
+          "name": "Cheese",
+          "price": 5,
+          "quantity": 1
+        },
+        {
+          "id": 107,
+          "name": "Tomatoes",
+          "price": 1,
+          "quantity": 4
+        }
+      ],
+      "status": "Pending"
+    }
+  ]
+  
